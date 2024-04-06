@@ -14,7 +14,7 @@ Security Matters: Because the code is public, anyone can find weaknesses and fix
 Runs Everywhere: From phones to giant computers, Linux can handle almost anything, uses resources near to none.
 Linux: The Web's Secret Weapon
 
-What do think is the base of web?(MAgic??) Not quite! A ton of web servers use Linux, basically the invisible engine keeping all those websites running smoothly. So, next time you shop online or chat with friends, remember, there's a good chance Linux is making it happen.
+What do think is the base of web?(Magic??) Not quite! A ton of web servers use Linux, basically the invisible engine keeping all those websites running smoothly. So, next time you shop online or chat with friends, remember, there's a good chance Linux is making it happen.
 
 Linux in Your Pocket
 
