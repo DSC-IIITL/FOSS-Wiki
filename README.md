@@ -22,14 +22,14 @@ In this event, participants are encouraged to submit technical documentation in 
    - *Engagement*: Ability of the blog to captivate and engage readers, fostering discussion and further exploration.
    - *Contribution Potential*: Potential impact of the blog on the FOSS community, including its potential to address common challenges or inspire further development.
 
-5. *Submission Deadline*: The deadline for submissions is 1st April 2024. Late submissions will not be accepted.
+5. *Submission Deadline*: The deadline for submissions is 6th April 2024. Late submissions will not be accepted.
 
 ### How to Participate
 
 1. Choose your FOSS-related topic of interest.
 2. Create your blog documentation. Be sure to include technical details, explanations, code snippets (if applicable), and any other relevant information.
 3. **Submission Process**: Participants are required to create Pull Requests (PRs) on the [GDSC FOSS Wiki GitHub repository](https://github.com/DSC-IIITL/FOSS-Wiki). Fork and Clone the repo to work on it.  Use your Roll Numbers and topic title in the format **LCS2023XXX_TOPIC_TITLE** as branches when creating the PRs. Blogs can be submitted in either .md or .docx format.
-4. Submit your blog by 1st April 2024.
+4. Submit your blog by 6th April 2024.
 5. Wait for the evaluation results and keep an eye out for announcements!
 
 ### Questions?
